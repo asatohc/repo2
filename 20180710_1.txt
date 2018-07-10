@@ -2,6 +2,3 @@ ff
 vv
 gg
 
-add
-vv
-cc
